@@ -1,0 +1,8 @@
+optimisasi terhadap kasus yang mirip: https://jesko-rehberg.medium.com/replenishment-inventory-optimization-with-python-12644200d8d1
+pemahaman tentang milp : https://towardsdatascience.com/mixed-integer-linear-programming-formal-definition-and-solution-space-6b3286d54892 https://paperswithcode.com/paper/machine-learning-augmented-branch-and-bound https://arxiv.org/abs/2203.02878
+artikel lainnya : https://portfolio.katiegirl.net/2019/03/03/a-mixed-integer-linear-programming-milp-problem-for-generator-bids/
+
+sc dengan kasus mirip : https://github.com/ADGEfficiency/energy-py-linear
+penggunaan milp secara simple : https://github.com/shounen/Mixed-Integer-Linear-Programming/blob/master/optimization.py
+inventory optimization: https://github.com/fedinb/Inventory-Optimization
+milp system analysis : https://github.com/kathleenwest/Mixed-Integer-Linear-Programming-Example-Power-Systems-Analysis-A
